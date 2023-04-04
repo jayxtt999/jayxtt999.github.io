@@ -69,21 +69,14 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
     name: "清顺",
-    avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    avatar: "/avatar_self.jpg",
+    description: "本职码农，绝活复制粘贴，喜欢折腾各种新奇事物、各种编程语言/AI/物联网/开发板/脚本均有涉及，虽精力有限智商有限但也无法阻止我对新鲜事物的探索",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      '少数派': [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      Wechat: "https://tc.seoipo.com/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
-      Discord: "https://discord.gg/PZTQfJ4GjX",
-      RSS: "https://newzone.top/rss.xml",
+      GitHub: "https://github.com/jayxtt999",
+      Wechat: "",
+      Email: "mailto:jayxtt999@gmail.com",
     },
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
@@ -98,7 +91,7 @@ export default hopeTheme({
     // 评论配置（仅做样例，记得更换）
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://note.naix996.site",
       reaction: [
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
