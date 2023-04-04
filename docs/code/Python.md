@@ -2,7 +2,7 @@
 article: false
 title: Python
 icon: python
-order: 3
+order: 5
 ---
 
 Python 很久没用了，暂时只做记录作用。

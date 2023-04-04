@@ -3,11 +3,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: Tao
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
-bgImage: https://tc.seoipo.com/home-bg-1.jpg
+heroText: Naix
+tagline: 行胜于言丨立于皓月之边，不弱星光之势
+bgImage: https://cdn.discordapp.com/attachments/1038329663187062804/1089953794852405288/0_1.png
 heroFullScreen: false
 #projects:
 #  - icon: project

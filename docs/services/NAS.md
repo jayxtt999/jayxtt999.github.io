@@ -2,7 +2,7 @@
 article: false
 title: NAS
 icon: process
-order: 1
+order: 2
 ---
 
 NAS 主要用于 Docker 服务、影视管理和文件存储备用这三方面。群晖 NAS 在使用前，注意以下几点：
