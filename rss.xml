@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.naix996.site/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.naix996.site/rss.xml" rel="self" type="application/rss+xml"/>
     <title>我的笔记</title>
-    <link>https://newzone.top/</link>
+    <link>https://blog.naix996.site/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Apr 2023 11:19:59 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Apr 2023 11:19:59 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Apr 2023 13:49:59 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Apr 2023 13:49:59 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>Copyright by 清顺</copyright>
+    <copyright>Copyright by Nai&amp;apos;x</copyright>
     <image>
       <title>我的笔记</title>
-      <url>https://newzone.top/logo.svg</url>
-      <link>https://newzone.top/</link>
+      <url>https://blog.naix996.site/logo.svg</url>
+      <link>https://blog.naix996.site/</link>
     </image>
     <category>工具</category>
     <item>
       <title>零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑</title>
-      <link>https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html</link>
-      <guid>https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html</guid>
-      <source url="https://newzone.top/rss.xml">零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑</source>
+      <link>https://blog.naix996.site/posts/2022-09-05-stable_diffusion_ai_painting.html</link>
+      <guid>https://blog.naix996.site/posts/2022-09-05-stable_diffusion_ai_painting.html</guid>
+      <source url="https://blog.naix996.site/rss.xml">零基础入门 Stable Diffusion - 无需显卡把 AI 绘画引擎搬进家用电脑</source>
       <description>我从小特别羡慕会画画的伙伴。他们能够将心中的想法画出来，而我最高水平的肖像画是丁老头。但在接触 Stable Diffusion 之后，我感觉自己脱胎换骨，给自己贴上了「会画画」的新标签。 丁老头进化旅程 Stable Diffusion 是一个「文本到图像」的人工智能模型，也是唯一一款开源且能部署在家用电脑（对硬件要求不高）上的 AI 绘图工具。使用 Stable Diffusion，你可以在拥有 6GB 显存显卡，16GB 内存或只依赖 CPU 的电脑上生成图像，并且仅需几秒钟的时间，无需进行预处理或后处理。</description>
       <category>工具</category>
       <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
@@ -147,9 +147,9 @@
     </item>
     <item>
       <title>找不到字幕？Whisper 让不懂外语的你也能看懂日剧</title>
-      <link>https://newzone.top/posts/2022-11-18-whisper_ai_subtitles.html</link>
-      <guid>https://newzone.top/posts/2022-11-18-whisper_ai_subtitles.html</guid>
-      <source url="https://newzone.top/rss.xml">找不到字幕？Whisper 让不懂外语的你也能看懂日剧</source>
+      <link>https://blog.naix996.site/posts/2022-11-18-whisper_ai_subtitles.html</link>
+      <guid>https://blog.naix996.site/posts/2022-11-18-whisper_ai_subtitles.html</guid>
+      <source url="https://blog.naix996.site/rss.xml">找不到字幕？Whisper 让不懂外语的你也能看懂日剧</source>
       <description>从大学开始，我看日剧十几年了，但日语毫无进步，只能听懂几句耳熟能详的句子，看国外电影全靠字幕组。曾经我想过学日语，报了暑期班，但成绩被七岁的小妹妹同学吊打。然后，我就被自己的语言能力说服了，想着这辈子都离不开字幕组。这种情况一直持续着，直到我测试视频剪辑工具 AutoCut 时遇到了 Whisper。 Whisper 是今年 9 月被 OpenAI 开源的自动语音识别系统，除了可以用于语音识别，Whisper 还能实现多种语言的转录，以及将这些语言翻译成英语。「语言识别」「转录」听起来特别唬人，但 transcribe（转录）指将语音转为文字，Whisper 会为音视频生成带时间轴的字幕文件，是支持 99 种语言 AI 字幕工具。</description>
       <category>工具</category>
       <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
@@ -262,9 +262,9 @@
     </item>
     <item>
       <title>为了帮你用好 ChatGPT，我做了一个「咒语库]</title>
-      <link>https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html</link>
-      <guid>https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html</guid>
-      <source url="https://newzone.top/rss.xml">为了帮你用好 ChatGPT，我做了一个「咒语库]</source>
+      <link>https://blog.naix996.site/posts/2023-02-27-chatgpt_shortcuts.html</link>
+      <guid>https://blog.naix996.site/posts/2023-02-27-chatgpt_shortcuts.html</guid>
+      <source url="https://blog.naix996.site/rss.xml">为了帮你用好 ChatGPT，我做了一个「咒语库]</source>
       <description>最近，关于 ChatGPT 的讨论越来越多，但大多数人仅仅将其视为一款聊天机器人，并从猎奇的角度去测试其人工智能的回答。然而，ChatGPT 不仅仅是一个猎奇的 AI 玩具，未来它将会成为必备生产工具。ChatGPT 之类的 AI 工具将用它巨大的语言知识库，为我们创造更多的价值。 ChatGPT 的回复质量取决于提示词（即 Prompt）。这通常是用户提供的问题或文本，以激活模型生成回复。简单来说，prompt 就是用户想要询问的内容，作为输入送到 ChatGPT 中，ChatGPT 会尝试理解这个输入，然后输出合适的回答或响应。通过优化提示词，可以使 ChatGPT 生成更加准确、有用的回复。为了能让 ChatGPT 成为生产力工具，我花大量时间逐个研究提示词的规则和范例，如 ChatGPT Prompt Examples、Awesome ChatGPT Prompts、Learn Prompting 等。我筛选出了 163 个 Prompts（提示词），仅记录它们的功能而非内容，这就让我的笔记超过了 5000 字。提示词目录也变得越来越长，即使将浏览器全屏，也无法完整显示。起初，我制作提示词目录是为了方便自己，但每次需要查找提示词时，我不得不依靠记忆。这些笔记反而成为了负担，拖累 ChatGPT 的工作效率。</description>
       <category>工具</category>
       <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
