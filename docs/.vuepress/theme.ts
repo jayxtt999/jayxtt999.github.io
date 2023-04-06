@@ -5,11 +5,11 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://blog.naix996.site",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "Nai'x",
+    url: "https://blog.naix996.site",
   },
 
   iconAssets: "iconfont",
@@ -68,10 +68,10 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "Nai'x",
     avatar: "/avatar_self.jpg",
     description: "本职码农，绝活复制粘贴，喜欢折腾各种新奇事物、各种编程语言/AI/物联网/开发板/脚本均有涉及，虽精力有限智商有限但也无法阻止我对新鲜事物的探索",
-    intro: "/intro.html",
+    intro: "/index.html",
     roundAvatar: true,
     medias: {
       GitHub: "https://github.com/jayxtt999",
